@@ -1,0 +1,49 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 3
+    }
+  ],
+  "students": [
+    {
+      "id": 5120,
+      "fname": "kibet",
+      "lname": "immanuel",
+      "email": "kibet.immanuel@gmail.com",
+      "phoneNumber": 754789495
+    },
+    {
+      "id": 5122,
+      "fname": "liam",
+      "lname": "smith",
+      "email": "liam.smith@gmail.com",
+      "phoneNumber": 725769456
+    },
+    {
+      "id": 5124,
+      "fname": "ward",
+      "lname": "prowse",
+      "email": "ward.prowse@gmail.com",
+      "phoneNumber": 743968204
+    },
+    {
+      "fname": "Darwin",
+      "lname": "priest",
+      "email": "darwin.priest@gmail.com",
+      "phoneNumber": 744637859,
+      "id": 5125
+    }
+  ]
+}
